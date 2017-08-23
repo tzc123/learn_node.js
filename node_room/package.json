@@ -1,0 +1,20 @@
+{
+  "name": "node_room",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "mime": "~1.2.7",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  }
+}
